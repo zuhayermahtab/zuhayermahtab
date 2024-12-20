@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zuhayermahtab
-- 👀 I’m actively looking for operations research, supply chain optimization and data science internships.
-- 🌱 I’m currently doing my Ph.D. in Industrial and Systems Engineering from University of Southern California.
+- 👀 I’m actively looking for internships in Industrial Engineering and Operations Research.
+- 🌱 I’m currently doing my Ph.D. in Industrial and Systems Engineering at the University of Southern California.
 - 🔬 My research focuses on transportation systems optimization.
-- 📫 You can reach me at mahtab@usc(dot)edu.
+- 📫 You can reach me at mahtab (at) usc(dot)edu.
 
 <!---
 zuhayermahtab/zuhayermahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
